@@ -40,3 +40,11 @@ in the Internet:
 
 <i class='fa fa-linkedin-square'></i> [LinkedIn](https://www.linkedin.com/in/anton-kurilenko-816b225b/)
 
+<i class='fa fa-telegram'></i> [Telegram](https://t.me/ieroglyph)
+
+## What else to see here
+
+Here is a link for my cat's instagram,
+worth seeing for everyone:
+
+<i class='fa fa-instagram'></i> [@catmaster_yodah](https://www.instagram.com/catmaster_yodah/)
